@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "3M")(type "KiCad")(uri "${KIPRJMOD}/footprints/3M.pretty")(options "")(descr ""))
+  (lib (name "bouni")(type "KiCad")(uri "${KIPRJMOD}/footprints/bouni.pretty")(options "")(descr ""))
+)
